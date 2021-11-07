@@ -5,6 +5,7 @@ package serial
 import (
 	"errors"
 	"fmt"
+	"io"
 	"log"
 	"os"
 	"syscall"
